@@ -1,0 +1,15 @@
+# Java
+*.class
+*.jar
+
+# generated files
+bin/
+gen/
+out/
+target/
+
+# Project files
+*.iml
+.idea/
+.project
+.classpath
