@@ -2,15 +2,15 @@ package lv.abuzdin.jbbgen;
 
 public class BuilderPreferences {
 
-    private String source;
+    private String classPath;
     private String destination;
 
-    public String getSource() {
-        return source;
+    public String getClassPath() {
+        return classPath;
     }
 
-    public void setSource(String source) {
-        this.source = source;
+    public void setClassPath(String classPath) {
+        this.classPath = classPath;
     }
 
     public String getDestination() {
